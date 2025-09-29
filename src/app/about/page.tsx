@@ -92,7 +92,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-semibold text-gray-800 mb-4">Resource Aggregation</h3>
               <p className="text-gray-600">
-                Collect and aggregate farmers' resources and produce to achieve economies of scale and 
+                Collect and aggregate farmers&apos; resources and produce to achieve economies of scale and 
                 better market positioning.
               </p>
             </div>
@@ -246,8 +246,8 @@ export default function About() {
               Join Our Mission
             </h2>
             <p className="text-xl text-green-100">
-              Be part of a community that's transforming agriculture and empowering farmers. 
-              Whether you're a farmer, consumer, or supporter, there's a place for you in our story.
+              Be part of a community that&apos;s transforming agriculture and empowering farmers. 
+              Whether you&apos;re a farmer, consumer, or supporter, there&apos;s a place for you in our story.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a

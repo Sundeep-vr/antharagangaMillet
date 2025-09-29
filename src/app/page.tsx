@@ -16,7 +16,7 @@ export default function Home() {
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
                   Antharaganga Millet Farmer Producer Company is a government-recognized FPO 
-                  dedicated to improving farmers' livelihoods and promoting sustainable millet cultivation in Kolar, Karnataka.
+                  dedicated to improving farmers&apos; livelihoods and promoting sustainable millet cultivation in Kolar, Karnataka.
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -79,7 +79,7 @@ export default function Home() {
           <div className="text-center space-y-4 mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-800">Our Mission</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              To improve farmers' livelihoods and develop rural sectors through sustainable millet cultivation and collective farming practices.
+              To improve farmers&apos; livelihoods and develop rural sectors through sustainable millet cultivation and collective farming practices.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -162,7 +162,7 @@ export default function Home() {
               <div className="space-y-4">
                 <h2 className="text-3xl lg:text-4xl font-bold text-gray-800">Our Impact</h2>
                 <p className="text-xl text-gray-600">
-                  See how we're transforming lives and communities through sustainable farming practices.
+                  See how we&apos;re transforming lives and communities through sustainable farming practices.
                 </p>
               </div>
               <div className="space-y-6">
@@ -234,7 +234,7 @@ export default function Home() {
               Ready to Join Our Mission?
             </h2>
             <p className="text-xl text-green-100">
-              Whether you're a farmer looking to improve your livelihood or a consumer wanting to support sustainable agriculture, 
+              Whether you&apos;re a farmer looking to improve your livelihood or a consumer wanting to support sustainable agriculture, 
               we welcome you to be part of our community.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

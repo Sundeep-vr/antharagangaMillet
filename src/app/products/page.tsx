@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { ShoppingCart, Star, Heart, Filter, Search } from 'lucide-react';
+import { ShoppingCart, Star, Heart, Search } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 
 interface Product {

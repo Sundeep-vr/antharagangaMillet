@@ -114,7 +114,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Get in touch with Antharaganga Millet FPO. We're here to help with your questions, 
+              Get in touch with Antharaganga Millet FPO. We&apos;re here to help with your questions, 
               support your farming journey, and build lasting partnerships.
             </p>
           </div>
@@ -158,7 +158,7 @@ export default function Contact() {
               <div className="space-y-6 mb-8">
                 <h2 className="text-3xl font-bold text-gray-800">Send us a Message</h2>
                 <p className="text-gray-600">
-                  Have a question or need assistance? Fill out the form below and we'll get back to you as soon as possible.
+                  Have a question or need assistance? Fill out the form below and we&apos;ll get back to you as soon as possible.
                 </p>
               </div>
 

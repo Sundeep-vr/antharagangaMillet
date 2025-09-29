@@ -27,7 +27,7 @@ export default function Cart() {
             <ShoppingCart className="w-24 h-24 text-gray-300 mx-auto mb-6" />
             <h1 className="text-2xl font-bold text-gray-800 mb-4">Your Cart is Empty</h1>
             <p className="text-gray-600 mb-8">
-              Looks like you haven't added any millets to your cart yet. 
+              Looks like you haven&apos;t added any millets to your cart yet. 
               Explore our premium collection and add some nutritious millets!
             </p>
             <Link

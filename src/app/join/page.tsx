@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Users, CheckCircle, ArrowRight, Phone, Mail, MapPin } from 'lucide-react';
+import { CheckCircle, ArrowRight, Phone, Mail, MapPin } from 'lucide-react';
 
 export default function Join() {
   const [formData, setFormData] = useState({
@@ -424,7 +424,7 @@ export default function Join() {
               </div>
               <h3 className="text-lg font-semibold text-gray-800">Email Us</h3>
               <p className="text-gray-600">info@antharaganga.com</p>
-              <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
+              <p className="text-sm text-gray-500">We&apos;ll respond within 24 hours</p>
             </div>
             <div className="text-center space-y-4">
               <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto">

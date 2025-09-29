@@ -115,7 +115,7 @@ export default function Impact() {
                     <p className="text-gray-600 text-sm">{story.location}</p>
                   </div>
                 </div>
-                <p className="text-gray-600 mb-4 leading-relaxed">"{story.story}"</p>
+                <p className="text-gray-600 mb-4 leading-relaxed">&ldquo;{story.story}&rdquo;</p>
                 <div className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium inline-block">
                   {story.improvement}
                 </div>
@@ -178,7 +178,7 @@ export default function Impact() {
               <div className="space-y-4">
                 <h2 className="text-3xl lg:text-4xl font-bold text-gray-800">Community Development</h2>
                 <p className="text-xl text-gray-600">
-                  Beyond farming, we're building stronger communities through education, healthcare, and social programs.
+                  Beyond farming, we&apos;re building stronger communities through education, healthcare, and social programs.
                 </p>
               </div>
               <div className="space-y-6">
@@ -188,7 +188,7 @@ export default function Impact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-800">Education Support</h3>
-                    <p className="text-gray-600">Scholarship programs and educational resources for farmers' children.</p>
+                    <p className="text-gray-600">Scholarship programs and educational resources for farmers&apos; children.</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
